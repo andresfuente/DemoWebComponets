@@ -1,2 +1,0 @@
-# DemoWebComponets
-Created with CodeSandbox
